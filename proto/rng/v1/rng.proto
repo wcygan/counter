@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/wcygan/counter";
+package rng.v1;
 
 message Packet {
   int64 number = 1;
