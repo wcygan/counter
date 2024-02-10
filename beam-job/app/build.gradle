@@ -19,7 +19,7 @@ dependencies {
     implementation 'com.google.protobuf:protobuf-java:3.19.1'
     implementation 'com.google.guava:guava:32.1.1-jre'
     implementation 'org.apache.beam:beam-sdks-java-core:2.53.0'
-    implementation 'org.apache.beam:beam-runners-flink-1.12:2.53.0'
+    implementation 'org.apache.beam:beam-runners-flink-1.16:2.53.0'
     implementation 'org.apache.beam:beam-sdks-java-io-kafka:2.53.0'
     implementation 'org.apache.kafka:kafka-clients:2.8.0'
     implementation 'org.slf4j:slf4j-api:1.7.30'
