@@ -51,8 +51,30 @@ docker_build_with_restart(
     ],
 )
 
+# ------------------------------ Apache Beam Job ----------------------------- #
+
+# Compile command for the Java application
+beam_job_compile_cmd = 'gradle shadowJar'
+
+# Local resource to compile the Java application
+local_resource(
+  'beam_job_compile',
+  beam_job_compile_cmd,
+  deps=['./beam-job', './generated'],
+  dir='./beam-job'
+)
+
+# Docker build for the Java application
+docker_build(
+    'wcygan/counter-beam-job',
+    '.',
+    dockerfile='beam-job/Dockerfile',
+    ignore=['./scripts', '.gitignore'],
+)
+
 # --------------------------------- Resources --------------------------------- #
 
 k8s_yaml([
   'rng/deployment.yaml',
+  'beam-job/deployment.yaml',
 ])
