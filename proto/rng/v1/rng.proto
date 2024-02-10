@@ -4,5 +4,4 @@ package rng.v1;
 
 message Packet {
   int64 number = 1;
-  string message = 2;
 }
