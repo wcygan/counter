@@ -7,12 +7,9 @@ import (
 )
 
 func main() {
-	var number int64 = rand.Int63()
-
 	packet := rngv1.Packet{
-		Number:  number,
-		Message: "Hello",
+		Number: rand.Int63(),
 	}
 
-	fmt.Println("Sending packet: ", packet)
+	fmt.Println("Sending packet:", packet.GetNumber())
 }

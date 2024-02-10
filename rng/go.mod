@@ -1,4 +1,4 @@
-module github.com/wcygan/counter/number-generator
+module github.com/wcygan/counter/rng
 
 go 1.21.5
 
