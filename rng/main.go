@@ -50,7 +50,7 @@ func main() {
 		if err != nil {
 			log.Println("failed to write messages:", err)
 		} else {
-			log.Println("Produced: ", packet.Number)
+			log.Println("Produced:", packet.Number)
 		}
 	}
 }
