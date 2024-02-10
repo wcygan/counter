@@ -5,6 +5,9 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '7.1.0'
 }
 
+sourceCompatibility = '11'
+targetCompatibility = '11'
+
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
@@ -18,9 +21,9 @@ dependencies {
     implementation 'io.grpc:grpc-protobuf:1.61.0'
     implementation 'com.google.protobuf:protobuf-java:3.19.1'
     implementation 'com.google.guava:guava:32.1.1-jre'
-    implementation 'org.apache.beam:beam-sdks-java-core:2.38.0'
-    implementation 'org.apache.beam:beam-runners-flink-1.12:2.38.0'
-    implementation 'org.apache.beam:beam-sdks-java-io-kafka:2.38.0'
+    implementation 'org.apache.beam:beam-sdks-java-core:2.53.0'
+    implementation 'org.apache.beam:beam-runners-flink-1.12:2.53.0'
+    implementation 'org.apache.beam:beam-sdks-java-io-kafka:2.53.0'
     implementation 'org.apache.kafka:kafka-clients:2.8.0'
     implementation 'org.slf4j:slf4j-api:1.7.30'
     implementation 'org.slf4j:slf4j-simple:1.7.30'
@@ -70,7 +73,7 @@ sourceSets {
 // Apply a specific Java toolchain to ease working on different environments.
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(21)
+        languageVersion = JavaLanguageVersion.of(11)
     }
 }
 

@@ -1,6 +1,7 @@
 package io.counter.beam;
 
 import com.rng.v1.Packet;
+import org.apache.beam.runners.flink.FlinkRunner;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.kafka.KafkaIO;
 import org.apache.beam.sdk.options.PipelineOptions;
@@ -13,6 +14,7 @@ import org.apache.kafka.common.serialization.LongDeserializer;
 public class App {
     public static void main(String[] args) {
         PipelineOptions options = PipelineOptionsFactory.create();
+        options.setRunner(FlinkRunner.class);
         Pipeline p = Pipeline.create(options);
 
         String bootstrapServers = "kafka:9092"; // Adjust if your Kafka service has a different address
