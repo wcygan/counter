@@ -18,7 +18,7 @@ COPY beam-job/ ./beam-job/
 WORKDIR /app/beam-job
 
 # Build the Java application
-RUN gradle shadowJar
+RUN gradle --build-cache shadowJar
 
 # Final stage: Create the runtime image
 FROM openjdk:11-jre-slim
