@@ -27,11 +27,88 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-flink-1.12/2.38.0/1471570e541c8af75691b206c90e648ab51475b6/beam-runners-flink-1.12-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-flink-1.12/2.38.0/7d02089ad5734652e83327a0fb76930847b77ad3/beam-runners-flink-1.12-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core/2.38.0/53029f0ec47959175f6b3ea688a85aaf52e2c239/beam-sdks-java-extensions-google-cloud-platform-core-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core/2.38.0/e1c2136a91870ad09406a7b50102943edc5c8d8d/beam-sdks-java-extensions-google-cloud-platform-core-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.cloud.bigdataoss/gcsio/2.2.4/43736cde81aadf7bf5a99d44ca23dd12c7d62be/gcsio-2.2.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.cloud.bigdataoss/gcsio/2.2.4/5e1ccc1b790797c1048a76b7a8967ba271047f93/gcsio-2.2.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-alts/1.41.1/2b5055c60d309bfa40218320244b87e28ec74dde/grpc-alts-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-alts/1.41.1/7a036d17b56f7b99d32bba48749bf550e59e3dff/grpc-alts-1.41.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-storage-v2/2.0.1-alpha/d49f3fb27ef7448f052519eeb1494ede69c9b266/grpc-google-cloud-storage-v2-2.0.1-alpha.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-storage-v2/2.0.1-alpha/777b62d70e5852fac9e40a0fd34f99f9b783a989/grpc-google-cloud-storage-v2-2.0.1-alpha-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.61.0/75f6c72f90c0ab8561328b51f91fca815b2ef101/grpc-protobuf-1.61.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.61.0/96b1ab18206f70095f8222ad6df11df30d830f84/grpc-protobuf-1.61.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-storage-v2/2.0.1-alpha/475b29604f4c194e2de023f637fffe3d65fefa69/proto-google-cloud-storage-v2-2.0.1-alpha.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-storage-v2/2.0.1-alpha/2b28d7344b87612d8ca07d033555bc0fe571e39/proto-google-cloud-storage-v2-2.0.1-alpha-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/1.1.7/9e2d92d3109c14b0f1df68d5165fd9366f8a9f98/proto-google-iam-v1-1.1.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/1.1.7/2e4326aec560e86071b8eefa7c7fd0e062eca1ac/proto-google-iam-v1-1.1.7-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -49,11 +126,176 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.18.1/25bc98420057eff2dfd9bda41110c66da1a1bea6/protobuf-java-util-3.18.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.18.1/909da3a98a037271bab8384ccdcd1811972c090a/protobuf-java-util-3.18.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.25.1/2933a5c3f022456d8842323fe0d7fb2d25a7e3c7/protobuf-java-3.25.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.25.1/4987d65351b8ab80c02e9bf8491b9285dba12a8f/protobuf-java-3.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.cloud.bigdataoss/util/2.2.4/5acf547b0867cd1e26df64732d5b302f1dcae631/util-2.2.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.cloud.bigdataoss/util/2.2.4/5ed8c492ab5fb3ca5249a68b8a48d3d69300b4fb/util-2.2.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/1.4.0/948a5c7b51d8f07accafd1be2b12698a22d39908/google-auth-library-oauth2-http-1.4.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/1.4.0/3c4c02d7447540592be54ccb89ec92e14a1c058/google-auth-library-oauth2-http-1.4.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.41.2/8321186a583df76ad22f94c14b42130486c150f3/google-http-client-jackson2-1.41.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.41.2/3977239a7012fe619e3a33d61f6948409bf40f40/google-http-client-jackson2-1.41.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-jackson2/1.32.2/264f22828853ba51fbca94edd5140907bb1b71b1/google-api-client-jackson2-1.32.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-jackson2/1.32.2/b69969370c99604d47e906b3c5f425f1d21b0bcf/google-api-client-jackson2-1.32.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-cloudresourcemanager/v1-rev20211017-1.32.1/1054bb2002ba51b31ce91c7d860ae34237133e07/google-api-services-cloudresourcemanager-v1-rev20211017-1.32.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-cloudresourcemanager/v1-rev20211017-1.32.1/e839ee8c7d60d602858362735a802d53f2acaae6/google-api-services-cloudresourcemanager-v1-rev20211017-1.32.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-storage/v1-rev20211201-1.32.1/b717bc251d713783dc31c59c0a637eda67de8415/google-api-services-storage-v1-rev20211201-1.32.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-storage/v1-rev20211201-1.32.1/f1e82316ee258542bd0dc88ac081c4deeb1c2e41/google-api-services-storage-v1-rev20211201-1.32.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-iamcredentials/v1-rev20210326-1.32.1/6fc1114b8f34438789915acbea5c638b5f34b4e/google-api-services-iamcredentials-v1-rev20210326-1.32.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-iamcredentials/v1-rev20210326-1.32.1/e05784d4572c9219b6d74113c68ed85affcfa16a/google-api-services-iamcredentials-v1-rev20210326-1.32.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.32.2/e9bd262652619c5cb23d8a7994b581220c788161/google-api-client-1.32.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.32.2/c59fe10de181f1dff161d6e1418a3e46d629ce83/google-api-client-1.32.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.41.0/1a754a5dd672218a2ac667d7ff2b28df7a5a240e/google-http-client-gson-1.41.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.41.0/12a3c71aa3449020825d0d2ba69d5e4151bc5a57/google-http-client-gson-1.41.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.32.1/58edd8b2fd2e10eef6fd194ebb9c933054c4a744/google-oauth-client-1.32.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.32.1/c5e6d7fa24c38a6e5eb3df16ce6fc042cbe86236/google-oauth-client-1.32.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-apache-v2/1.40.1/f50c6c36f29c74c561b702acfb20bf872c8c9c43/google-http-client-apache-v2-1.40.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-apache-v2/1.40.1/9e6d13d5fafeda4b07ec3a6f9d86abab1bb2c3ee/google-http-client-apache-v2-1.40.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.41.2/a1f873cb28083311a69784aca987f658f1b707ce/google-http-client-1.41.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.41.2/9dc37240d4aa7abec336f4dc444e6bd2a30328d6/google-http-client-1.41.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.41.1/652ae1b3b9db322ad8586b47e197e13f81ff65d1/grpc-stub-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.41.1/8eb523ea063516d338d4e2e2791c38b197498aa6/grpc-stub-1.41.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-http-util/0.30.0/2720ebf3ec454c8cd5d5bb1e035bb0390830d620/opencensus-contrib-http-util-0.30.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-http-util/0.30.0/d3d6332be1753fd8fd00b6cc028f034556bd642a/opencensus-contrib-http-util-0.30.0-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -71,11 +313,344 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-io-kafka/2.38.0/87ef6e63a5640f8ca8ee21547e94357cd9d43e4c/beam-sdks-java-io-kafka-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-io-kafka/2.38.0/62a85727ca3c6ba56b935a4d12629886a6dc541d/beam-sdks-java-io-kafka-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-java-job-service/2.38.0/a20e6facbf88af34a57aad76dae1104d85b14045/beam-runners-java-job-service-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-java-job-service/2.38.0/eff198c34c59b47aa0185350e2502a1eb5a23596/beam-runners-java-job-service-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-expansion-service/2.38.0/ec7033dcf2a1c4c7c29203893bf3f5a19b33fe13/beam-sdks-java-expansion-service-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-expansion-service/2.38.0/8c358e8ef53483a7eded563d07e59657d7acd8e0/beam-sdks-java-expansion-service-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-java-fn-execution/2.38.0/edaf6f697cec2bfcad1bc9477806827c0725338c/beam-runners-java-fn-execution-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-java-fn-execution/2.38.0/e46cc1a70adaa73d289603f4d20e7f198dc79cc9/beam-runners-java-fn-execution-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-core-java/2.38.0/fa8d808c682b2b1c52040141827084c1fb20ab4e/beam-runners-core-java-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-core-java/2.38.0/de5588b3f363adc7084cbd25487e21d3d32d87f6/beam-runners-core-java-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-core-construction-java/2.38.0/2db4507caa68d551a9b31cac092a735659970e90/beam-runners-core-construction-java-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-runners-core-construction-java/2.38.0/f798f1e4f73fd10ed3881a582da12621d3152ad2/beam-runners-core-construction-java-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-fn-execution/2.38.0/fa2fd589a6f3b6db0b089bfa892ab2f07720d24/beam-sdks-java-fn-execution-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-fn-execution/2.38.0/eacb4f40456a3516663c3e79e87aedaebd7f674a/beam-sdks-java-fn-execution-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.38.0/da4979270fc73a4af4ec66567d4cb3f5dd727412/beam-sdks-java-core-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-sdks-java-core/2.38.0/33c0c400f7455d894993ceddf22ff10bd2d927cc/beam-sdks-java-core-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.8.0/a4f66ca79617470d1355b809675313619bbae45a/kafka-clients-2.8.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.8.0/733350b33475541dc8fb4a02bfa844e62651094a/kafka-clients-2.8.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.30/e606eac955f55ecf1d8edcccba04eb8ac98088dd/slf4j-simple-1.7.30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.30/5d6530a871f57605c828f2d330ea8f9817837a6f/slf4j-simple-1.7.30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.confluent/kafka-avro-serializer/5.3.2/8206e639ac28c3b7557e32ed6801c6b4abd039e5/kafka-avro-serializer-5.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.confluent/kafka-schema-registry-client/5.3.2/74bba24bc62eb9ade07e6a8ee0b71327f5132373/kafka-schema-registry-client-5.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.avro/avro/1.8.2/91e3146dfff4bd510181032c8276a3a0130c0697/avro-1.8.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.avro/avro/1.8.2/9a134e0bead395687dab63f5aa2c301b52b2dfa3/avro-1.8.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-clients_2.11/1.12.7/a6910064eafc3d597d928a56cd49d323078a505d/flink-clients_2.11-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-clients_2.11/1.12.7/4b02230925a461ba923d72d0cfc9bf213b0a80f9/flink-clients_2.11-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-optimizer_2.11/1.12.7/3300b39ffd0ea8b50285fb0f136a08c55c000c56/flink-optimizer_2.11-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-optimizer_2.11/1.12.7/226062350f52cd8960e7e89850322869f1f879ca/flink-optimizer_2.11-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.12.7/432675281c4084f9b879348d755df1c72586c2d4/flink-streaming-java_2.11-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-streaming-java_2.11/1.12.7/dcbc39c014f7aa84d8452fd058681b512c520405/flink-streaming-java_2.11-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.11/1.12.7/ecf4e093f7cc9081f88dbe294e3867654325e3a7/flink-runtime_2.11-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-runtime_2.11/1.12.7/da7b1c65a900ecbd31f65bde004e4bf01bdbf9ca/flink-runtime_2.11-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-java/1.12.7/3aceb98a726a6fcc4cae6a15ee1028d3805d3521/flink-java-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-java/1.12.7/6c215c1ff947e17848871e837f2191018c199bff/flink-java-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-hadoop-fs/1.12.7/4ace3338c989dad66b3f78de10ab2dcb24539526/flink-hadoop-fs-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-hadoop-fs/1.12.7/17c63674d0bb9678eaa0fe36bbb83f0a68881422/flink-hadoop-fs-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-file-sink-common/1.12.7/11bacdda29b3cae6c9e9ed9446acec07e03dedda/flink-file-sink-common-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-file-sink-common/1.12.7/2ddef569e3acab4aa12e45f9a52c158bd918e85e/flink-file-sink-common-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-core/1.12.7/8da9345fa46e875aa3fa681cbdbd256cfdaf5576/flink-core-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-core/1.12.7/96f0b19a9a4f3794259c72fdbb5057f5391b429/flink-core-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-annotations/1.12.7/b2789b2c5628b710835a077097398e60d7eeb7eb/flink-annotations-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-annotations/1.12.7/98908cac20a29614b60db9217e0d0295fcb19d8b/flink-annotations-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.5.21/432b7c8f844df7afb6359cf2212dd9058b9a9545/akka-slf4j_2.11-2.5.21.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.5.21/ae928a832ef83fcab73baaa97ba0e3794509b67e/akka-slf4j_2.11-2.5.21-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.clapper/grizzled-slf4j_2.11/1.3.2/8e83c864c7a16b391bd6e4099a9c40a437781aea/grizzled-slf4j_2.11-1.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.clapper/grizzled-slf4j_2.11/1.3.2/e998de1eb1c98729d6570ec20ea9f0d7e3ec141e/grizzled-slf4j_2.11-1.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.confluent/common-config/5.3.2/dd28d8981a590d136a3a5a8804dfc4f3355a6185/common-config-5.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.confluent/common-utils/5.3.2/bbc8719cc79819b4af7443e887dc8b7d5633b6f5/common-utils-5.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.101tec/zkclient/0.10/c54d4b5a5e89af75a80b6d5857400165ce5188d0/zkclient-0.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.101tec/zkclient/0.10/224f43882780f1dab64a7f3bb429e217e5fbc2eb/zkclient-0.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/71a1fdefa224da50f1db6306ce609981e20186c9/slf4j-api-1.7.30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.5.1/6673f647a35826fb01ff3129edc241d88bd27b88/testng-7.5.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.5.1/6958b2adabd6bf9af753015b2bffbff67d9566f1/testng-7.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.41.1/90320bff6b2525cc4a02e9da7fe2180f628fa7e3/grpc-netty-shaded-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.41.1/a806c01489d4010674903449f4c3ed3622767636/grpc-netty-shaded-1.41.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.41.1/c9e70b1ef42dc9c5ebbd85ab0b1592a453d06ade/grpc-core-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.41.1/31fbdb2bb670044223ba3a47538014b52a37bee5/grpc-core-1.41.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.41.1/5f275bffab6f2354620066fa1e2b24275661263c/grpc-auth-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.41.1/81dcd8a616c4a3e427d26cb4bc5f922b3d6f4800/grpc-auth-1.41.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -126,6 +701,39 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-model-pipeline/2.38.0/221105b0f3721fea354b8b61111203084873885e/beam-model-pipeline-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-model-pipeline/2.38.0/5b8f86fea035328fc9e8c660773037a3401ce25f/beam-model-pipeline-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-model-job-management/2.38.0/d4a53bca13d968070f4b144b6a36337c7022b3b7/beam-model-job-management-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-model-job-management/2.38.0/5b8f86fea035328fc9e8c660773037a3401ce25f/beam-model-job-management-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-model-fn-execution/2.38.0/a68a27c1b2ff083a9ea940898aede206ae84c80c/beam-model-fn-execution-2.38.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-model-fn-execution/2.38.0/b26f1c2ab49dce8a6ad117ef84e43fbfd034df92/beam-model-fn-execution-2.38.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.23.0/43a27853b6c7d54893e0b1997c2c778c347179eb/error_prone_annotations-2.23.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -148,6 +756,154 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-vendor-bytebuddy-1_11_0/0.1/7b4b883ed316417458a48c27a425af29a7fd994/beam-vendor-bytebuddy-1_11_0-0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-vendor-grpc-1_43_2/0.1/7d226d1fd012eb33449ea1e7fbaccfe15a20e6e9/beam-vendor-grpc-1_43_2-0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.beam/beam-vendor-guava-26_0-jre/0.1/f309c3047ca99428e567afa42d233fb3e839bde1/beam-vendor-guava-26_0-jre-0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.13.1/fa89741b057f4f2094e2f115e6cf898626989fe2/jackson-dataformat-yaml-2.13.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.13.1/804218de6e90e4bf2e844a2475585afa87078de6/jackson-dataformat-yaml-2.13.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.1/698b2d2b15d9a1b7aae025f1d9f576842285e7f6/jackson-databind-2.13.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.1/3a556489e4a16b4837fd640c46a858c8402a1eb/jackson-databind-2.13.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.1/1cbcbe4623113e6af92ccaa89884a345270f1a87/jackson-annotations-2.13.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.1/7d167558a509af98d1ce5610ba142735a6990faa/jackson-annotations-2.13.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.1/51ae921a2ed1e06ca8876f12f32f265e83c0b2b8/jackson-core-2.13.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.1/2d0c5c66616d6a57ad6282078249df816b3b2ed2/jackson-core-2.13.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.xerial.snappy/snappy-java/1.1.8.4/66f0d56454509f6e36175f2331572e250e04a6cc/snappy-java-1.1.8.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.xerial.snappy/snappy-java/1.1.8.4/ae02b50fff26612bdf687952dc970ce9760b620c/snappy-java-1.1.8.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.10/29e8126e31f41e5c12b9fe3a7eb02e704c47d70b/joda-time-2.10.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.10/8c3636c9fba6deaed9233632e9d4fb3c06ec35c5/joda-time-2.10.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/args4j/args4j/2.33/bd87a75374a6d6523de82fef51fc3cfe9baf9fc9/args4j-2.33.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/args4j/args4j/2.33/155fd0af01281cf320eec1db59bb15507ddcb7bf/args4j-2.33-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-metrics-core/1.12.7/ab4d4218d9e43ee444e0431815291e22c342c1e8/flink-metrics-core-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-metrics-core/1.12.7/c4aab1a1545bf6c0539aab1b522640904aa45d7f/flink-metrics-core-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.18.RELEASE/64f2270bfd9d615c8c3b9d94995867f39391ed30/spring-expression-4.3.18.RELEASE.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.18.RELEASE/d486e8421316cb392e7f9e595e59d0fc459e0048/spring-expression-4.3.18.RELEASE-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.github.luben/zstd-jni/1.4.9-1/7dc25611870925d32752c5b45d7d23ae01702f43/zstd-jni-1.4.9-1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.github.luben/zstd-jni/1.4.9-1/befcbcaedd0fa804df797ed2caa797c9dcb16421/zstd-jni-1.4.9-1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.lz4/lz4-java/1.7.1/c4d931ef8ad2c9c35d65b231a33e61428472d0da/lz4-java-1.7.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.lz4/lz4-java/1.7.1/1a37e596d5e62bd94000c6f0b5e3989f3b8d6a67/lz4-java-1.7.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.78/a3927de9bd6f351429bcf763712c9890629d8f51/jcommander-1.78.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -156,6 +912,555 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.conscrypt/conscrypt-openjdk-uber/2.5.1/3658b276ab54bd600f754b3c8cf4b7cd77fc61e6/conscrypt-openjdk-uber-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.conscrypt/conscrypt-openjdk-uber/2.5.1/f9cbb8c61564503a85169b913d9fd7f8c508a73a/conscrypt-openjdk-uber-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7/jackson-mapper-asl-1.9.13.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/83113901bc2a377d698ccea35ad842786f37c6ad/jackson-mapper-asl-1.9.13-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/3c304d70f42f832e0a86d45bd437f692129299a4/jackson-core-asl-1.9.13.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/6ed53c5ce78344e14296aa47769d67b10e1c7b2c/jackson-core-asl-1.9.13-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.7/3ed64c69e882a324a75e890024c32a28aff0ade8/paranamer-2.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.7/dda6e29e9450d82e04d7fc9d686d96b93c94116/paranamer-2.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/b3e0a269baa0d05b02f9b4447be463d25da8c097/commons-compress-1.21-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.5/9c64274b7dbb65288237216e3fae7877fd3f2bee/xz-1.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.5/66cf970ae7a73d9c3eb7d0ad3e901c43591139c3/xz-1.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.github.classgraph/classgraph/4.8.104/6a40ced7ec6898f6046f0b04415fa2b1578f4457/classgraph-4.8.104.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.github.classgraph/classgraph/4.8.104/754757ad909a5a5c0fac91e14cc1dade6df051f3/classgraph-4.8.104-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/1.4.0/50f543f1da68956b4dec792c64e2f8a2f1dcf376/google-auth-library-credentials-1.4.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/1.4.0/a05203af670b6e2d8f1011a331fd51ca04737668/google-auth-library-credentials-1.4.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/9654e91a61d7662c36be6710ef8e720c0e3f9807/httpclient-4.5.13-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/2ab1724e80d075698903a49f5e8fa90b077937ac/httpcore-4.4.15-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.3.1/1303efbc4b181e5a58bf2e967dc156a3132b97c0/commons-cli-1.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.3.1/12ec02d8cb9fbb33bd05506109a4fc8bcc3578/commons-cli-1.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-queryable-state-client-java/1.12.7/11231768d2691e3e6146399cf042269d27cf31d3/flink-queryable-state-client-java-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-queryable-state-client-java/1.12.7/6df33fabef5a92f4e22cf0a9b743d22234c6f048/flink-queryable-state-client-java-1.12.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/force-shading/1.12.7/a17176e30b469ca9e869d02b0cb4f7ebd7fd6f94/force-shading-1.12.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-shaded-asm-7/7.1-12.0/3e7e29037e85a5027db15b0058c6b9be511b4e14/flink-shaded-asm-7-7.1-12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/d2a489573c0ed2c4942b3660decad5d65087b406/commons-lang3-3.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.kryo/kryo/2.24.0/c6b206e80cfd97e66a1364003724491c757b92f/kryo-2.24.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.kryo/kryo/2.24.0/72af5078b1592b627f2b4187f95decf72829b0e9/kryo-2.24.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/78c50ebda5784937ca1615fc0e1d0cb35857d572/commons-collections-3.2.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-shaded-guava/18.0-12.0/440feca2953dda43f2c6a59db8e029833f721ca1/flink-shaded-guava-18.0-12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.5/13af68e9a11576953f5c4b09436f8207be9d3a27/commons-math3-3.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.5/1d3f412d28c8bff0e8f048240b08bcd21cfa432e/commons-math3-3.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.8.0/92999e26e6534606b5678014e66948286298a35c/commons-io-2.8.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.8.0/eec0d4cb359930f0a7c8a9c5147019ef2cd77757/commons-io-2.8.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-shaded-netty/4.1.49.Final-12.0/89da60c90a8ee9ef2980437b4794700e038521cf/flink-shaded-netty-4.1.49.Final-12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-shaded-jackson/2.10.1-12.0/bab2f342f5947b6a46123c16985ad3f1fcfa7421/flink-shaded-jackson-2.10.1-12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-shaded-zookeeper-3/3.4.14-12.0/19abb2e4f3675b92f6305033e59e5bcfc6e390c4/flink-shaded-zookeeper-3-3.4.14-12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.24.0-GA/d7466fc2e3af7c023e95c510f06448ad29b225b3/javassist-3.24.0-GA.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.24.0-GA/88e88c8e043968bac9b2e86df5cb4a7c2b9f0023/javassist-3.24.0-GA-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/66a32abd59b3f9bb690bba2efc7d7ef680157bcd/scala-library-2.11.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.5.21/b38d270d0158d38f103bce546d708155469b89c6/akka-stream_2.11-2.5.21.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.5.21/155c13b05d896417909f95d3d5cbaa023ff42e93/akka-stream_2.11-2.5.21-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.5.21/22d15d47c9e33393f09f688b2c58dbc81f960a1e/akka-actor_2.11-2.5.21.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.5.21/83693619f3b6b9cf26011012839305ac64250899/akka-actor_2.11-2.5.21-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-protobuf_2.11/2.5.21/b3e264d1314272f78f2718e77aaa0110fa9af831/akka-protobuf_2.11-2.5.21.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-protobuf_2.11/2.5.21/8eaf7e1818c864770698df22a4fd24dc90920ef2/akka-protobuf_2.11-2.5.21-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.11/3.5.0/4adcea609ae83ae73be401872f0a36c018b34fea/scopt_2.11-3.5.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.11/3.5.0/eeafc6325872be8f86ef24c0690bc3609ba8024d/scopt_2.11-3.5.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.twitter/chill_2.11/0.7.6/8154b0442f0c3d5954fc132e2f44f7df13d2bfcc/chill_2.11-0.7.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.twitter/chill_2.11/0.7.6/edbd3735153ecba96ea538a1afc685b4b416e112/chill_2.11-0.7.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.18.RELEASE/4acbce682c3dfe38181d57b7e0792e2cc21e4f77/spring-core-4.3.18.RELEASE.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.18.RELEASE/6ce871ab6fbcc92da74aaa53861a33828b20e346/spring-core-4.3.18.RELEASE-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.8.2/546ae662e646e47a544ef68ebb43987a3146b692/auto-value-annotations-1.8.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.8.2/673583182492822cf722040bf32344b4a3902cdc/auto-value-annotations-1.8.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.30.0/c445990db10f3b6cc71bcfb7b0ba3201e92f902c/opencensus-api-0.30.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.30.0/bb53cf571730b28da41312db3c91c0a5adaf7eef/opencensus-api-0.30.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.41.1/19843b6e16e9df03a60e233dd7897c88ea640423/grpc-context-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.41.1/1c64aacffc68238d78f3c317d2e8548bdbc0de2b/grpc-context-1.41.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.flogger/google-extensions/0.7.1/c49493bd815e3842b8406e21117119d560399977/google-extensions-0.7.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.flogger/google-extensions/0.7.1/d1a4aa628807d2bcaf3de67051a08f38eb6cef54/google-extensions-0.7.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger-system-backend/0.7.1/4bee7ebbd97c63ca7fb17529aeb49a57b670d061/flogger-system-backend-0.7.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger-system-backend/0.7.1/11f74cbaf52200d8658391263e72501b46da6196/flogger-system-backend-0.7.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.7.1/e8910b8c40aabd3f665f7d9519390a29919086e7/flogger-0.7.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.7.1/abdf5a8a639c2c4102126105614075a1bfe40260/flogger-0.7.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.9/8a432c1d6825781e21a02db2e2c33c5fde2833b9/gson-2.8.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.9/e1167849f172a0b75d6ffe4e4b2f34b9259795bb/gson-2.8.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/bce4ba84fd527950e35040b20a991c63e90e2850/commons-codec-1.11-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.minlog/minlog/1.2/59bfcd171d82f9981a5e242b9e840191f650e209/minlog-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.minlog/minlog/1.2/c0bf75c30b19393673253e25708aa797a545fa10/minlog-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/611a57d836e2c320d59f9851d4ad587f3c8472e/objenesis-2.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.3/4b68c2d5d0403bb4015520fcfabc88d0cbc4d117/config-1.3.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.3/c7af5bd41815a5edc8e7a81082e88fe18f9729e0/config-1.3.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/a31b1b36bcf0d53657733b5d40c78d5f090a5dea/scala-java8-compat_2.11-0.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/fffca5653859d428c99e7b09ff2d503fae8c9477/scala-java8-compat_2.11-0.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/fb592a3d57b11e71eb7a6211dd12ba824c5dd037/reactive-streams-1.0.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.3.7/6e82461eef336716387f6c233555cf916165c70f/ssl-config-core_2.11-0.3.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.3.7/60650eaf2a6d78839340508b302143a752a2030d/ssl-config-core_2.11-0.3.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.twitter/chill-java/0.7.6/a74b8d019d6941d82ff86d1612e382f4a0ae8259/chill-java-0.7.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.twitter/chill-java/0.7.6/66fe5add813d6406dc5ec433bbe47894be67b374/chill-java-0.7.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.28/7cae037c3014350c923776548e71c9feb7a69259/snakeyaml-1.28.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.28/1df44bcfb045ca926511dae52d4857b8b3721d31/snakeyaml-1.28-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-grpclb/1.41.1/a55dd49f5dde92cc27c43adcedf4f993c58a7ee2/grpc-grpclb-1.41.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-grpclb/1.41.1/30f52d30a9686a362db2cf64d5a8f8ac36d711de/grpc-grpclb-1.41.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.5.3/45f92d2e0676d05ae9297269b8268f93a875d4a/checker-compat-qual-2.5.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.5.3/5853ff40085a6f44b51e6fe2d0ee95792190956d/checker-compat-qual-2.5.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.1.1/5dbfa7b37ae609f2629f957f399731b58b00a799/scala-parser-combinators_2.11-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.1.1/f579fbbe95487c0e5381c467c428a3aa2b317710/scala-parser-combinators_2.11-1.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
@@ -175,6 +1480,17 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.3-android/b765a950c76b93bdf9c6e3d9b06544d13f79c255/guava-32.1.3-android-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/ba74746d38026581c12166e164bb3c15e90cc4ea/checker-qual-3.37.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/9990309889a76e4c6556c18140ce8559b854bae3/checker-qual-3.37.0-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -201,11 +1517,44 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
-          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/ba74746d38026581c12166e164bb3c15e90cc4ea/checker-qual-3.37.0.jar!/"/>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/9990309889a76e4c6556c18140ce8559b854bae3/checker-qual-3.37.0-sources.jar!/"/>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/d26c56180205cbb50447c3eca98ecb617cf9f58b/j2objc-annotations-1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/a1678ba907bf92691d879fef34e1a187038f9259/annotations-4.1.1.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/deb22daeb37bdcbc14230aeaeddce38320d6d0f9/annotations-4.1.1.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.19/1536e1a8fd552dc05f12b5f0827fbb2ee3d5a89b/animal-sniffer-annotations-1.19.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.19/6230414d024899ce5552c9c30ce49163e1906dbd/animal-sniffer-annotations-1.19-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.23.0/b813b7539fae6550541da8caafd6add86d4e22f/perfmark-api-0.23.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.23.0/d4f6ec422fd2f00fffba00aa7167f1ed654cf1f0/perfmark-api-0.23.0-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -234,6 +1583,17 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/ba74746d38026581c12166e164bb3c15e90cc4ea/checker-qual-3.37.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/9990309889a76e4c6556c18140ce8559b854bae3/checker-qual-3.37.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.webjars/jquery/3.5.1/2392938e374f561c27c53872bdc9b6b351b6ba34/jquery-3.5.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -254,11 +1614,44 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/ba74746d38026581c12166e164bb3c15e90cc4ea/checker-qual-3.37.0.jar!/"/>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.37.0/9990309889a76e4c6556c18140ce8559b854bae3/checker-qual-3.37.0-sources.jar!/"/>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/d26c56180205cbb50447c3eca98ecb617cf9f58b/j2objc-annotations-1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/a1678ba907bf92691d879fef34e1a187038f9259/annotations-4.1.1.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/deb22daeb37bdcbc14230aeaeddce38320d6d0f9/annotations-4.1.1.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.19/1536e1a8fd552dc05f12b5f0827fbb2ee3d5a89b/animal-sniffer-annotations-1.19.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.19/6230414d024899ce5552c9c30ce49163e1906dbd/animal-sniffer-annotations-1.19-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.23.0/b813b7539fae6550541da8caafd6add86d4e22f/perfmark-api-0.23.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wcygan/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.23.0/d4f6ec422fd2f00fffba00aa7167f1ed654cf1f0/perfmark-api-0.23.0-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
