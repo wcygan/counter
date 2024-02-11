@@ -17,7 +17,7 @@ helm_resource(
 # --------------------------------- Protobuf --------------------------------- #
 
 # Compile command for the protobuf files
-proto_compile_cmd = 'buf generate'
+proto_compile_cmd = 'buf generate proto'
 
 # Local resource to compile the protobuf files
 local_resource(
@@ -36,7 +36,13 @@ local_resource(
   'rng_compile',
   rng_compile_cmd,
   deps=['./rng', './generated'],
-  dir='./rng'
+  dir='./rng',
+  ignore=[
+        'scripts/*',
+        '.gitignore',
+        'beam-job/*',
+        'build/*',
+      ],
 )
 
 # Docker build with restart for the Go application
@@ -45,7 +51,12 @@ docker_build_with_restart(
     '.',
     dockerfile='rng/Dockerfile',
     entrypoint='/app/rng',
-    ignore=['./scripts', '.gitignore'],
+    ignore=[
+          'scripts/*',
+          '.gitignore',
+          'beam-job/*',
+          'build/*',
+        ],
     live_update=[
         sync('./', '/app'),
     ],
@@ -61,6 +72,13 @@ local_resource(
   'beam_job_compile',
   beam_job_compile_cmd,
   deps=['./beam-job', './generated'],
+  ignore=[
+    'scripts/*',
+    '.gitignore',
+    'beam-job/.gradle/*',
+    'beam-job/app/build/*',
+    'build/*',
+  ],
   dir='./beam-job'
 )
 
@@ -69,7 +87,13 @@ docker_build(
     'wcygan/counter-beam-job',
     '.',
     dockerfile='beam-job/Dockerfile',
-    ignore=['./scripts', '.gitignore'],
+    ignore=[
+      'scripts/*',
+      '.gitignore',
+      'beam-job/.gradle/*',
+      'beam-job/app/build/*',
+      'build/*',
+    ],
 )
 
 # --------------------------------- Resources --------------------------------- #

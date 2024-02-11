@@ -28,6 +28,8 @@ dependencies {
 }
 
 shadowJar {
+    configurations = [project.configurations.runtimeClasspath]
+    mergeServiceFiles()
     zip64 true
     archiveBaseName = 'beam-job'
     archiveClassifier = null

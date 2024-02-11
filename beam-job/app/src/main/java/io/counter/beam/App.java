@@ -17,9 +17,7 @@ public class App {
         options.setRunner(FlinkRunner.class);
         Pipeline p = Pipeline.create(options);
 
-        String bootstrapServers = "kafka-controller-0.kafka-controller-headless.default.svc.cluster.local:9092," +
-                "kafka-controller-1.kafka-controller-headless.default.svc.cluster.local:9092," +
-                "kafka-controller-2.kafka-controller-headless.default.svc.cluster.local:9092";
+        String bootstrapServers = "kafka-kafka.default.svc.cluster.local:9092";
         String topic = "packet";
 
         p.apply(KafkaIO.<Long, Packet>read()
