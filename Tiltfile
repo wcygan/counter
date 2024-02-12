@@ -81,21 +81,21 @@ local_resource(
         'scripts/*',
         '.gitignore',
         'filter/.gradle*',
-        'filter/build*',
+        'filter/build/*',
         'build/*',
   ],
 )
 
 docker_build(
     'wcygan/counter-filter',
-    'filter',
+    '.',
     dockerfile='filter/Dockerfile',
     entrypoint='java -jar pipeline.jar',
     ignore=[
           'scripts/*',
           '.gitignore',
           'filter/.gradle*',
-          'filter/build*',
+          'filter/build/*',
           'build/*',
     ],
 )

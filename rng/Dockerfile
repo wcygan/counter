@@ -1,7 +1,9 @@
 # First stage: Build the Protobuf files using Buf
 FROM bufbuild/buf:latest as bufbuild
 WORKDIR /app
-COPY . .
+COPY buf.gen.yaml ./
+COPY generated ./generated
+COPY proto ./proto
 RUN buf generate proto
 
 # Second stage: Download dependencies
