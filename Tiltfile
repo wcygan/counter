@@ -24,6 +24,10 @@ local_resource(
   'proto_compile',
   proto_compile_cmd,
   deps=['./proto'],
+  ignore=[
+    './**',
+    '!./proto',
+  ],
 )
 
 # --------------------------------- Rng --------------------------------- #
@@ -87,6 +91,10 @@ docker_build(
     'wcygan/counter-beam-job',
     '.',
     dockerfile='beam-job/Dockerfile',
+     live_update=[
+         sync('./target', '/app'),
+         run('gradle run'),
+     ],
     ignore=[
       'scripts/*',
       '.gitignore',
@@ -101,4 +109,5 @@ docker_build(
 k8s_yaml([
   'rng/deployment.yaml',
   'beam-job/deployment.yaml',
+  'admin-dashboard.yaml',
 ])
