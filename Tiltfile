@@ -44,7 +44,7 @@ local_resource(
   ignore=[
         'scripts/*',
         '.gitignore',
-        'beam-job/*',
+        'filter/*',
         'build/*',
       ],
 )
@@ -58,7 +58,7 @@ docker_build_with_restart(
     ignore=[
           'scripts/*',
           '.gitignore',
-          'beam-job/*',
+          'filter/*',
           'build/*',
         ],
     live_update=[
@@ -68,11 +68,42 @@ docker_build_with_restart(
 
 # ------------------------------ Filter ----------------------------- #
 
+# Compile command for the Java application
+filter_compile_cmd = './gradlew jar'
 
+# Local resource to compile the Java application
+local_resource(
+  'filter_compile',
+  filter_compile_cmd,
+  deps=['./filter', './build.gradle', './gradlew'],
+  dir='./filter',
+  ignore=[
+        'scripts/*',
+        '.gitignore',
+        'filter/.gradle*',
+        'filter/build*',
+        'build/*',
+  ],
+)
+
+docker_build(
+    'wcygan/counter-filter',
+    'filter',
+    dockerfile='filter/Dockerfile',
+    entrypoint='java -jar pipeline.jar',
+    ignore=[
+          'scripts/*',
+          '.gitignore',
+          'filter/.gradle*',
+          'filter/build*',
+          'build/*',
+    ],
+)
 
 # --------------------------------- Resources --------------------------------- #
 
 k8s_yaml([
   'rng/deployment.yaml',
+  'filter/deployment.yaml',
   'admin-dashboard.yaml',
 ])

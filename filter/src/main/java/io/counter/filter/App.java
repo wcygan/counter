@@ -15,7 +15,7 @@ import java.util.Arrays;
 public class App {
     public interface Options extends StreamingOptions {
         @Description("Input text to print.")
-        @Default.String("My input text")
+        @Default.String("Yay!")
         String getInputText();
 
         void setInputText(String value);
