@@ -1,3 +1,7 @@
+# Filter Beam Job
+
+Inspired by https://github.com/apache/beam-starter-java
+
 ## Package & run the Java application
 
 ```sh
