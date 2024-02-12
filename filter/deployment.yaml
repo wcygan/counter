@@ -1,21 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: rng
-  labels:
-    app: rng
+  name: filter
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: rng
+      app: filter
   template:
     metadata:
       labels:
-        app: rng
+        app: filter
     spec:
       containers:
-        - name: rng
-          image: wcygan/counter-rng:latest
+        - name: filter
+          image: wcygan/counter-filter:latest
           ports:
-            - containerPort: 8000
+            - containerPort: 8001

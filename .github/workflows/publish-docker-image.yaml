@@ -35,3 +35,13 @@ jobs:
           tags: wcygan/counter-rng:latest
           cache-from: type=registry,ref=wcygan/counter-rng:latest
           cache-to: type=inline
+      -
+        name: Build and push the Consumer's image
+        uses: docker/build-push-action@v5
+        with:
+          file: ./filter/Dockerfile
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: wcygan/counter-filter:latest
+          cache-from: type=registry,ref=wcygan/counter-filter:latest
+          cache-to: type=inline
