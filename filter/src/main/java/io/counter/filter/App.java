@@ -15,6 +15,7 @@ public class App {
     }
 
     public static void main(String[] args) {
+        // TODO: Use a different runner for Beam (instead of direct runner)
         var options = PipelineOptionsFactory.fromArgs(args).withValidation().as(Options.class);
         var pipeline = Pipeline.create(options);
         pipeline.apply("Read from Kafka", KafkaIO.<String, Packet>read()
